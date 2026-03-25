@@ -1,19 +1,23 @@
 # **Vladislav Bogush**
 ![ava](https://avatars.githubusercontent.com/u/108757371?v=4)
+
 ## Contact information:
 * **Phone:** +48453438686
 * **E-mail:** [bogush.vladislav@gmail.com](bogush.vladislav@gmail.com)
 * **Telegram:** [@FurryRaccoon](t.me/FurryRaccoon)
 * **GitHub:** [RaccoonProgrammer](https://github.com/RaccoonProgrammer)
+
 ## About Me:
  I’m interested in collecting, reading books, watching movies and TV shows, and staying active. I also really enjoy talking. If I set a goal for myself, I always achieve it by any means possible.
 >***“If you do something, do it well.”***
+
 ## Skills:
 * **C++**
 * **C#**
 * **HTML**
 * **CSS**
 * **Python**
+
 ## Code examples:
 ```
 private void SetupCharts()
@@ -43,6 +47,7 @@ private void SetupCharts()
 ```
 ## Education:
 I studied for two and a half years at [Grodno State University](https://www.grsu.by/), [Faculty of Mathematics and Computer Science](https://mf.grsu.by/index.php/faculty).
+
 ## Languages:
 * **Russian (Native)**
 * **Polish (B2)**
